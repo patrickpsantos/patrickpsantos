@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Patrick!
+- 🌱 I'm currently learning Python and trying to understand how GitHub works.
 
 <!--
 **patrickpsantos/patrickpsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
